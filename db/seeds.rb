@@ -51,3 +51,11 @@ UserTask.create(user_id: 4, task_id: 4)
 UserTask.create(user_id: 5, task_id: 5)
 
 puts "Seeding Done!🌱🌱🌱" 
+
+# task = user.created_tasks.create(
+#     group: group,
+#     title: 'Rails Fundamentals',
+#     description: 'migrations generators and fun!',
+#     start_time: Time.new(2021, 11, 1, 11),
+#     end_time: Time.new(2021, 11, 1, 13)
+#   )

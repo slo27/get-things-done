@@ -46,3 +46,8 @@ Things you may want to cover:
 
 # admin 
     # change column name to true/false ?
+
+# user
+    # username
+    # email
+    # password 
